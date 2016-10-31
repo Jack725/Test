@@ -1,4 +1,2 @@
 # Test
-
-Hi everybody!
-My name is Jack.W.
+It is a test project
